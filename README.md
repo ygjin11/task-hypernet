@@ -1,7 +1,7 @@
 # DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork
 
 ## Model
-![the artchitecture of our model]("model.png")
+![img]("model.png")
 
 ## Installation
 
@@ -9,7 +9,7 @@
 
 2. conda create -n minigrid python=3.9
 
-3.  Installrequirements
+3.  Install requirements.
 ```
 pip3 install -r requirements.txt
 ```
@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 
 ## Example of use
 
-Train an agent
+Train an agent.
 ```
 python3 -m scripts.train --algo ppo --model model --save-interval 10 --frames 80000
 ```
