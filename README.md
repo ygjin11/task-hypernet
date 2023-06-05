@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. Clone this repository.
+1. clone this repository.
 
 2. conda create -n minigrid python=3.9
 
