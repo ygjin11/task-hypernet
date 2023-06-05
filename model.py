@@ -11,7 +11,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.distributions.categorical import Categorical
 import torch_ac
-from hypernetwork_modules import HyperNetwork
+from hypernetwork import HyperNetwork
 device = torch.device("cuda:1")
 
 
