@@ -2,7 +2,7 @@
 
 ## Model
 
-<img src="https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/model.png" width="400px" />
+<img src="https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/model.pdf" width="400px" />
 
 
 ## Installation
