@@ -1,10 +1,14 @@
 # DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork
 
 ## Model
-![the architecture of our model](https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/model.png =100x)
 
-<img src=https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/model.png
- width="400px" />
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: auto;
+}
+<img src="https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/model.png" class="aligncenter" width="400px" />
+
 
 ## Installation
 
