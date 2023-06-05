@@ -1,4 +1,7 @@
-# EMPPOhypernet
+# DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork
+
+## Model
+![the artchitecture of our model]("model.png")
 
 ## Installation
 
