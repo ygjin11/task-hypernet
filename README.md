@@ -11,10 +11,8 @@
 
 2. conda create -n minigrid python=3.9
 
-3.  Install requirements.
-```
-pip3 install -r requirements.txt
-```
+3. pip install -r requirements.txt
+
 
 
 ## Example of use
