@@ -2,11 +2,6 @@
 
 ## Model
 
-.aligncenter {
-    clear: both;
-    display: block;
-    margin: auto;
-}
 <img src="https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/model.png" class="aligncenter" width="400px" />
 
 
