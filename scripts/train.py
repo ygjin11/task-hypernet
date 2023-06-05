@@ -160,9 +160,9 @@ if __name__ == "__main__":
     start_time = time.time()
 
     # load memory_state&value
-    exp_memory_state = torch.load('memo/state.pt', map_location=device)[0:50]
-    exp_memory_value = torch.load('memo/value.pt', map_location=device)[0:50]
-    exp_memory_text = torch.load('memo/text.pt', map_location=device)[0:50]
+    exp_memory_state = torch.load('memorystate.pt', map_location=device)[0:50]
+    exp_memory_value = torch.load('memory/value.pt', map_location=device)[0:50]
+    exp_memory_text = torch.load('memory/text.pt', map_location=device)[0:50]
     # exp_memory_value.shape:100.1.3.7.7
     # exp_memory_state.shape:100.64
 
