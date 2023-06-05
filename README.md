@@ -1,7 +1,7 @@
 # DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork
 
 ## Model
-![img]("model.png")
+![]("model.png")
 
 ## Installation
 
