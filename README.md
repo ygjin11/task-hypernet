@@ -7,12 +7,14 @@
 
 ## Installation
 
-1. clone this repository.
+1. Clone this repository.
 
-2. conda create -n minigrid python=3.9
-
-3. pip install -r requirements.txt
-
+2. Install requirements.
+```
+cd task-hypernet
+conda create -n minigrid python=3.9
+pip install -r requirements.txt
+```
 
 
 ## Example of use
