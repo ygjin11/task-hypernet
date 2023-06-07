@@ -1,9 +1,10 @@
 # DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork
 
+This is code of paper "Deep Reinforcement Learning with Multitask Episodic Memory Based on Task-Conditioned Hypernetwork".
+
 ## Model
 
 <img src="https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/modelarc.png" width="600px" />
-
 
 ## Installation
 
@@ -15,7 +16,6 @@ cd task-hypernet
 conda create -n minigrid python=3.9
 pip install -r requirements.txt
 ```
-
 
 ## Example of use
 
