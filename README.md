@@ -1,6 +1,6 @@
 # DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork
 
-Code of paper "Deep Reinforcement Learning with Multitask Episodic Memory Based on Task-Conditioned Hypernetwork"(https://arxiv.org/abs/2306.10698).
+This repository is for our paper 'Deep Reinforcement Learning with Multitask Episodic Memory Based on Task-Conditioned Hypernetwork'(https://arxiv.org/abs/2306.10698).
 
 ## Model
 
