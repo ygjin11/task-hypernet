@@ -4,7 +4,7 @@ This repository is for our paper 'Deep Reinforcement Learning with Task-Adaptive
 
 ## Model
 
-<img src="https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/modelarc.png" width="600px" />
+<img src="https://github.com/ygjin11/DRL-with-Multitask-EM-Based-on-Task-Conditioned-Hypernetwork/blob/main/model.png" width="600px" />
 
 ## Installation
 
